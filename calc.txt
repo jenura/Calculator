@@ -48,3 +48,5 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
+# Выполнено Задание 5: работа с fork, rebase и cherry-pick.
